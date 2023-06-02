@@ -12,3 +12,4 @@ We use 4 different type of integration techniques:
 - Simposon
 - composite Simpson
 - composite trapezoidal
+The code is built for the ROOT data analysis framework
