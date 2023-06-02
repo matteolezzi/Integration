@@ -9,7 +9,7 @@ and the expression of the electric field is:
  
 We use 4 different type of integration techniques:
 - trapezoidal
-- Simposon
+- Simpson
 - composite Simpson
 - composite trapezoidal
 
